@@ -1,0 +1,72 @@
+.bg-blue {
+    background-color: #2c629c;
+    color: #fff;
+}
+
+.divisor {
+    width: 1px;
+    height: 10px;
+    background: #ddd;
+}
+
+.nav-top li a {
+    font-size: 18px;
+    padding: 5px 8px 10px 8px;
+    letter-spacing: -0.75px;
+}
+
+.globo {
+    color: #0669de;
+}
+
+.g1 {
+    color: #a80000;
+}
+
+.globoesporte {
+    color: #3e831e;
+}
+
+.gshow {
+    color: #ff7f00;
+}
+
+.videos {
+    color: #005cef;
+}
+
+.dotted {
+    height: 20px;
+    border-width: 0.3px;
+    border-style: dotted;
+    border-color: #fff;
+}
+
+.gray {
+    background-color: #f3f3f3;
+}
+
+.buscar {
+    background-color: rgba(0,0,0,.15);
+    border-radius: 0px 4px 4px 0px;
+    border: none;
+    width: 129px !important;
+    transition-duration: .5s;
+    transition-property: width;
+    height: 25px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.lupa {
+    background-color: rgba(0,0,0,.15);
+    border-radius: 4px 0px 0px 4px;
+    color: #fff;
+    height: 25px;
+    border: none;
+}
+
+.titulo {
+    font-size: 55px;
+    font-weight: bold;
+}
